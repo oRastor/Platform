@@ -43,6 +43,7 @@ return [
         'tags'     => Orchid\Platform\Fields\TagsField::class,
         'robot'    => Orchid\Platform\Fields\RobotField::class,
         'place'    => Orchid\Platform\Fields\PlaceField::class,
+        'picture'  => Orchid\Platform\Fields\PictureField::class,
         'datetime' => Orchid\Platform\Fields\DateTimerField::class,
         'checkbox' => Orchid\Platform\Fields\CheckBoxField::class,
         'code'     => Orchid\Platform\Fields\CodeField::class,

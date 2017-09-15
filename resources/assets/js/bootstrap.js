@@ -33,8 +33,11 @@ $(() => {
     $('.select2-enable').select2();
 });
 
+require('croppie');
+
 require('./modules/post');
 require('./modules/datetimepicker');
 require('./modules/leftMenu');
 require('./modules/open-click');
 require('./modules/shortcut');
+require('./modules/picture');
